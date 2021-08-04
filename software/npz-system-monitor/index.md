@@ -3,7 +3,8 @@ CPU, RAMの使用率、ディスクの読み書き速度、ネットワークの
 
 遊びで作っているので雑なところが多いです~_~
 
----
+[リポジトリー](https://github.com/Nor-parz/npz-system-monitor) | [リリース](https://github.com/Nor-parz/npz-system-monitor/releases)
+
 #### 最新バージョン / リリース日
 ![Latest Version](https://img.shields.io/github/v/release/Nor-parz/npz-system-monitor?style=flat-square)
 ![Latest Release Date](https://img.shields.io/github/release-date/Nor-parz/npz-system-monitor?style=flat-square)
@@ -11,11 +12,14 @@ CPU, RAMの使用率、ディスクの読み書き速度、ネットワークの
 #### 最新バージョン（プレスリリース含む）/ リリース日
 ![Latest Version (Pre-Release)](https://img.shields.io/github/v/release/Nor-parz/npz-system-monitor?include_prereleases&style=flat-square)
 ![Latest Version Date (Pre-Release)](https://img.shields.io/github/release-date-pre/Nor-parz/npz-system-monitor?style=flat-square)
-
-#### 総ダウンロード数: ![Total Download](https://img.shields.io/github/downloads/Nor-parz/npz-system-monitor/total?style=flat-square)
 ---
 #### ライセンス
 ![License](https://img.shields.io/github/license/Nor-parz/npz-system-monitor?style=flat-square)
+
+---
+
+## ダウンロード
+### [**インストーラー（GitHub）**](https://github.com/Nor-parz/npz-system-monitor/raw/package/0_Installer/NpzSystemMonitor-OnlineInstaller.exe)
 
 ---
 
