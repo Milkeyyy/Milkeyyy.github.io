@@ -1,4 +1,4 @@
 # ホーム
 ## 一覧
-- ### [fS Clock Widget](https://www.milkeyyy.ml/fS-Clock-Widget)
-- ### [Npz System Monitor](https://www.milkeyyy.ml/Npz-System-Monitor)
+- ### [fS Clock Widget](https://milkeyyy.github.io/fS-Clock-Widget/main)
+- ### [Npz System Monitor](https://milkeyyy.github.io/Npz-System-Monitor/main)
