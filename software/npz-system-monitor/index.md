@@ -1,4 +1,6 @@
 # Npz System Monitor
+## [← ホーム](https://milkeyyy.github.io/)
+
 CPU, RAMの使用率、ディスクの読み書き速度、ネットワークの送受信量を表示するモニターアプリケーションです。
 
 遊びで作っているので雑なところが多いです~_~
@@ -13,6 +15,7 @@ CPU, RAMの使用率、ディスクの読み書き速度、ネットワークの
 ![Latest Version (Pre-Release)](https://img.shields.io/github/v/release/Nor-parz/npz-system-monitor?include_prereleases&style=flat-square)
 ![Latest Version Date (Pre-Release)](https://img.shields.io/github/release-date-pre/Nor-parz/npz-system-monitor?style=flat-square)
 ---
+
 #### ライセンス
 ![License](https://img.shields.io/github/license/Nor-parz/npz-system-monitor?style=flat-square)
 
