@@ -9,9 +9,6 @@
 ![Latest Version](https://img.shields.io/github/v/release/Milkeyyy/fS-Clock-Widget?style=flat-square)
 ![Latest Release Date](https://img.shields.io/github/release-date/Milkeyyy/fS-Clock-Widget?style=flat-square)
 
-#### 最新バージョン（プレスリリース含む）/ リリース日
-![Latest Version (Pre-Release)](https://img.shields.io/github/v/release/Milkeyyy/fS-Clock-Widget?include_prereleases&style=flat-square)
-![Latest Version Date (Pre-Release)](https://img.shields.io/github/release-date-pre/Milkeyyy/fS-Clock-Widget?style=flat-square)
 ---
 
 #### ライセンス
