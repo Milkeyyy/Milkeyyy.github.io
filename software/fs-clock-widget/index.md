@@ -6,15 +6,13 @@
 [リポジトリー](https://github.com/Milkeyyy/fS-Clock-Widget) | [リリース](https://github.com/Milkeyyy/fS-Clock-Widget/releases)
 
 #### 最新バージョン / リリース日
+##### Release Build
 ![Latest Version](https://img.shields.io/github/v/release/Milkeyyy/fS-Clock-Widget?style=flat-square)
 ![Latest Release Date](https://img.shields.io/github/release-date/Milkeyyy/fS-Clock-Widget?style=flat-square)
+##### Test Build
+![Latest Version](https://img.shields.io/github/v/release/Milkeyyy/fS-Clock-Widget?include_prereleases&style=flat-square)
+![Latest Release Date](https://img.shields.io/github/release-date-pre/Milkeyyy/fS-Clock-Widget?style=flat-square)
 
----
-
-#### ライセンス
-![License](https://img.shields.io/github/license/Milkeyyy/fS-Clock-Widget?style=flat-square)
-
----
 
 ## ダウンロード
 ### [**リリース（GitHub）**](https://github.com/Milkeyyy/fS-Clock-Widget/releases/latest)
